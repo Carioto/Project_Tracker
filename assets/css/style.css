@@ -1,0 +1,20 @@
+body {
+    background-color: antiquewhite;
+}
+#modalE { background-color: azure;
+        border: 1px solid black;}
+header {
+    text-align: center;
+    margin:25px;
+}
+
+#modalE { 
+    margin: 50px;
+}
+.modelF{
+    background-color: aquamarine;
+}
+.table{
+    width:98%;
+    margin-left: 20px;
+}
